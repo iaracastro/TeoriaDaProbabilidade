@@ -56,6 +56,12 @@ Materiais diversos como artigos, pdfs, códigos e imagens.
   - Densidade Conjunta de Variáveis Independentes
   - Funções de Variáveis Contínuas
   
+ ### 7. Tópicos de Somas e Médias de V.A
+  - Definições
+  - Propriedades da Distribuição Normal
+  - Desigualdade de Chebyshev
+  - Lei dos Grandes Números (LGN)
+  - Teorema Central do Limite (TCL)
   
 # Trabalho
 [Trabalho](https://github.com/iaracastro/TeoriaDaProbabilidade/tree/main/Trabalho) computacional valendo 1 pt na A2 sobre simulações de dados em um processo de Poisson.
