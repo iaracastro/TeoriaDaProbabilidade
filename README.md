@@ -32,6 +32,16 @@ Materiais diversos como artigos, pdfs, códigos e imagens.
   - Correlação
   - Quartis
   
+### 4. Tópicos de V.A Discretas III
+  - Distribuição Uniforme
+  - Processo de Bernoulli
+  - Distribuição de Bernoulli
+  - Distribuição Binomial
+  - Distribuição Binomial Negativa
+  - Distribuição Geométrica
+  - Distribuição Hipergeométrica
+  - Distribuição de Poisson
+  
   
 # Trabalho
 [Trabalho](https://github.com/iaracastro/TeoriaDaProbabilidade/tree/main/Trabalho) computacional valendo 1 pt na A2 sobre simulações de dados em um processo de Poisson.
