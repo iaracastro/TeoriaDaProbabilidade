@@ -41,6 +41,12 @@ Materiais diversos como artigos, pdfs, códigos e imagens.
   - Distribuição Geométrica
   - Distribuição Hipergeométrica
   - Distribuição de Poisson
+ 
+### 5. Tópicos de V.A Contínuas
+  - Distribuição Uniforme
+  - Distribuição Exponencial
+  - Distribuição Gama
+  - Distribuição Normal
   
   
 # Trabalho
