@@ -48,6 +48,14 @@ Materiais diversos como artigos, pdfs, códigos e imagens.
   - Distribuição Gama
   - Distribuição Normal
   
+### 6. Tópicos de V.A Contínuas Bidimensionais
+  - Função de Densidade Conjunta
+  - Valor esperado de uma função g(X,Y)
+  - Distribuições Marginais e Condicionais
+  - Esperança Condicional
+  - Densidade Conjunta de Variáveis Independentes
+  - Funções de Variáveis Contínuas
+  
   
 # Trabalho
 [Trabalho](https://github.com/iaracastro/TeoriaDaProbabilidade/tree/main/Trabalho) computacional valendo 1 pt na A2 sobre simulações de dados em um processo de Poisson.
