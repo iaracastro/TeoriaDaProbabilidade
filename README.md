@@ -63,6 +63,18 @@ Materiais diversos como artigos, pdfs, códigos e imagens.
   - Lei dos Grandes Números (LGN)
   - Teorema Central do Limite (TCL)
   
+ ### 8. Tópicos de Outras Distribuições
+  - Distribuição Qui-Quadrado
+  - Distribuição t-Student
+  
+ ### 9. Tópicos de Introdução a Estatística
+  - Definição de Estimador
+  - Estimador não-viesado
+  - Viés
+  - Estimador eficiente
+  - Estimador consistente
+  - Erro Quadrático Médio
+  
 # Trabalho
 [Trabalho](https://github.com/iaracastro/TeoriaDaProbabilidade/tree/main/Trabalho) computacional valendo 1 pt na A2 sobre simulações de dados em um processo de Poisson.
 
