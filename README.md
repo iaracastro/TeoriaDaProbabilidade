@@ -8,7 +8,7 @@ Repositório de Inferência Estatística: [aqui](https://github.com/iaracastro/I
 Materiais diversos como artigos, pdfs, códigos e imagens.
 
 # Resumos
-### 1. Tópicos de Conceitos Iniciais
+### 1. Conceitos Iniciais
   - Probabilidade
   - Espaço amostral
   - Eventos Mutuamente excludentes
@@ -18,12 +18,12 @@ Materiais diversos como artigos, pdfs, códigos e imagens.
   - Teorema de Bayes
   - Eventos independentes
   
-### 2. Tópicos de V.A Discretas I
+### 2. V.A Discretas I
   - Função de Probabilidade Conjunta e Probabilidade Acumulada
   - Distribuição Marginal e Condicional
   - Variáveis Aleatórias Independentes
   
-### 3. Tópicos de V.A Discretas II
+### 3. V.A Discretas II
   - Valor Esperado
   - Desvio Padrão
   - Variância
@@ -32,7 +32,7 @@ Materiais diversos como artigos, pdfs, códigos e imagens.
   - Correlação
   - Quartis
   
-### 4. Tópicos de V.A Discretas III
+### 4. V.A Discretas III
   - Distribuição Uniforme
   - Processo de Bernoulli
   - Distribuição de Bernoulli
@@ -42,13 +42,13 @@ Materiais diversos como artigos, pdfs, códigos e imagens.
   - Distribuição Hipergeométrica
   - Distribuição de Poisson
  
-### 5. Tópicos de V.A Contínuas
+### 5. V.A Contínuas
   - Distribuição Uniforme
   - Distribuição Exponencial
   - Distribuição Gama
   - Distribuição Normal
   
-### 6. Tópicos de V.A Contínuas Bidimensionais
+### 6. V.A Contínuas Bidimensionais
   - Função de Densidade Conjunta
   - Valor esperado de uma função g(X,Y)
   - Distribuições Marginais e Condicionais
@@ -56,18 +56,18 @@ Materiais diversos como artigos, pdfs, códigos e imagens.
   - Densidade Conjunta de Variáveis Independentes
   - Funções de Variáveis Contínuas
   
- ### 7. Tópicos de Somas e Médias de V.A
+ ### 7. Somas e Médias de V.A
   - Definições
   - Propriedades da Distribuição Normal
   - Desigualdade de Chebyshev
   - Lei dos Grandes Números (LGN)
   - Teorema Central do Limite (TCL)
   
- ### 8. Tópicos de Outras Distribuições
+ ### 8. Outras Distribuições
   - Distribuição Qui-Quadrado
   - Distribuição t-Student
   
- ### 9. Tópicos de Introdução a Estatística
+ ### 9. Introdução a Estatística
   - Definição de Estimador
   - Estimador não-viesado
   - Viés
